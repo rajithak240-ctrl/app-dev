@@ -1,13 +1,13 @@
 
 
 class A {
-  a() {
+  a(){
     print("A is Called");
   }
 }
 
 class B extends A {
-  b() {
+  b(){
     print("B is Called");
   }
 }
